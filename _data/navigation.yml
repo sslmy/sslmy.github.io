@@ -19,3 +19,34 @@ main:
   - title: "CV"
     url: /files/CV_SUN_ENG_2024.pdf
 
+---
+layout: default
+title: Your Page Title
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
+        }
+    </style>
+</head>
+<body>
+
+<div id="main-links">
+  <ul>
+    {% for item in page.main %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="content">
+  {{ content }}
+</div>
+
+</body>
+</html>
