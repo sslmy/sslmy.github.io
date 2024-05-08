@@ -21,7 +21,7 @@ author_profile: true
 .pic img{
 display:block;
 width:150px;
-height:150px;
+height:210px;
 }
 .text{
     width:800px;
@@ -84,8 +84,6 @@ height:150px;
 <p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
 </div>
-
-
 
 <br>
 <div class="members">
