@@ -171,7 +171,7 @@ redirect_from:
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
     -->
-  <p>Our group is a mix of Mechanical, Control, and Computer.</p>
+  <p>Our group is a mix of Mechanical Engineering, Control Engineering, and Computer Science.</p>
     <script>
       var slideIndex = 5;
       showSlides(slideIndex);
