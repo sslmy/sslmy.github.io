@@ -22,4 +22,4 @@ We are currently looking for master's and undergraduate students to join our lab
 
 联系方式
 
-个人简历+应聘岗位+发表文章请发送至：sunshilong@hit.edu.cn。来信时请注明可到岗时间。个人信息严格保密。谢谢您的关注！
+个人简历请发送至：sunshilong@hit.edu.cn。来信时请注明可到岗时间。个人信息严格保密。谢谢您的关注！
