@@ -40,7 +40,7 @@ author_profile: true
 }
 </style>
 
-<h2>Principal Investigator</h2>
+<h2><span style='font-family: Trebuchet MS;'>Principal Investigator</span></h2>
 <hr>
 <div class="members">
     <div class="pic">
@@ -53,7 +53,7 @@ author_profile: true
     </div>
 </div>
 
-<h2>PhD student</h2>
+<h2><span style='font-family: Trebuchet MS;'>PhD student</span></h2>
 <hr>
 <div class="members">
     <div class="pic">
@@ -67,7 +67,7 @@ author_profile: true
     </div>
 </div>
 
-<h2>Graduate Students</h2>
+<h2><span style='font-family: Trebuchet MS;'>Graduate Students</span></h2>
 <hr>
 <div class="members">
     <div class="pic">

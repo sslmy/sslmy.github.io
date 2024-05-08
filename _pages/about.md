@@ -68,7 +68,7 @@ redirect_from:
 </div>
   <br>
 <div>
-   <h1> News about the laboratory</h1>
+   <h1><span style='font-family: Trebuchet MS;'>News about the laboratory</span></h1>
    <hr/> 
 <div class="news">
 <li> “SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer” is accepted by AEI! Congratulations to Hao Ding!--2024.04</li>
@@ -85,7 +85,7 @@ redirect_from:
   <p><b>Seeing is believing! </b>We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
   -->
 
-<h1>Who we are </h1>
+<h1><span style='font-family: Trebuchet MS;'>Who we are</span></h1>
      <hr/> 
   <div class="slideshow-container">
       <div class="mySlides"> 
