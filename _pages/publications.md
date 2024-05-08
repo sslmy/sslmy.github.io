@@ -1,9 +1,52 @@
+```markdown
 ---
 layout: archive
-title: "Publications"
+title: "<center>Publications</center>" <!-- Trebuchet MS -->
 permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=0N3EANQAAAAJ) <!-- Trebuchet MS -->
+You can find the complete publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=0N3EANQAAAAJ)
 
+<!--  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AEI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="font-family: Trebuchet MS;"> <!-- Trebuchet MS -->
+
+[SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002271)
+
+**Shilong Sun**, Hao Ding, Zida Zhao, Wenfuxu, Dong Wang
+
+Advanced Engineering Informatics,2024
+
+PDF/BibTeX
+</div>
+</div>
+
+<!--  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/TIM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="font-family: Trebuchet MS;"> <!-- Trebuchet MS -->
+
+[A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model](https://ieeexplore.ieee.org/abstract/document/10504387)
+
+**Shilong Sun**, Hao Ding, Haodong Huang, Zida Zhao, Dong Wang, Wenfuxu
+
+IEEE Transactions on Instrumentation and Measurement,2024
+
+PDF/BibTeX
+</div>
+</div>
+
+<!--  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/isa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="font-family: Trebuchet MS;"> <!-- Trebuchet MS -->
+
+[Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0019057823005128)
+
+**Shilong Sun**, Tengyi Peng, Yu Zhou, Xiao Zhang, Dong Wang
+
+ISA Transactions,2024
+
+PDF/BibTeX
+</div>
+</div>
+```
