@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shilong SUN"
+  name             : "<span style='font-family: Trebuchet MS;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shilong SUN</span>"
   avatar           : "ssl.png"
   bio              : "Associate Professor of Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen China"
