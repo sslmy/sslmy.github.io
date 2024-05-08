@@ -13,8 +13,6 @@ main:
   - title: "Our Gallery"
     url: /ourgallery/
     
-  - title: "Software"
-    url: /software/
     
   - title: "Join Us"
     url: /Join Us/    
@@ -24,17 +22,4 @@ main:
   
   - title: "CV"
     url: /files/CV_SUN_ENG_2024.pdf
-    
-  - #  title: "Talks"
-    #  url: /talks/    
 
-  - # title: "Teaching"
-    # url: /teaching/    
-    
-  -  # title: "Portfolio2"
-     # url: /portfolio2/
-        
-  - # title: "Blog Posts"
-    # url: /year-archive/
-  - # title: "Guide"
-   #  url: /markdown/
