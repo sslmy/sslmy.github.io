@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Team"
+title: "<span style='font-family: Trebuchet MS;'>Research Team</span>"
 permalink: /team/
 author_profile: true
 ---
