@@ -10,8 +10,9 @@ author_profile: true
     background-color:white;
     width:1000px;
     height:180px;
-    boarder:solid 2px pink;
+    border:solid 2px pink;
     overflow:hidden;
+    font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
 }
 .pic{
     width:150px;
@@ -19,99 +20,103 @@ author_profile: true
     float:left;
 }
 .pic img{
-display:block;
-width:150px;
-height:210px;
+    display:block;
+    width:150px;
+    height:210px;
 }
 .text{
     width:800px;
     height:150px;
     float:right;
+    font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
+    font-size: 14px;
+    line-height: 1.6;
+}
+.text h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.text p {
+    margin-bottom: 8px;
 }
 </style>
 
 <h2>Principal Investigator</h2>
 <hr>
 <div class="members">
-<div class="pic">
-<img src="/images/ssl.png" alt="" />
-</div>
-<div class="text">
-<h3>Shilong SUN（孙士龙）</h3>
-<p>Group Leader</p>
-<p><a href="mailto:sunshilong@hit.edu.cn">Email:sunshilong@hit.edu.cn</a></p>
-</div>
+    <div class="pic">
+        <img src="/images/ssl.png" alt="" />
+    </div>
+    <div class="text">
+        <h3>Shilong SUN（孙士龙）</h3>
+        <p>Group Leader</p>
+        <p><a href="mailto:sunshilong@hit.edu.cn">Email: sunshilong@hit.edu.cn</a></p>
+    </div>
 </div>
 
 <h2>PhD student</h2>
 <hr>
 <div class="members">
- <div class="pic">
-<img src="/images/hhd.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Haodong Huang（黄昊东）</h3>
-<p>March 2024 - Present </p>
-<p>Research Focus: </p>
-<p>Imitation Learning, LLM, Reinforcement Learning </p>
-<p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
+    <div class="pic">
+        <img src="/images/hhd.jpg" alt="" />
+    </div>
+    <div class="text">
+        <h3>Haodong Huang（黄昊东）</h3>
+        <p>March 2024 - Present </p>
+        <p>Research Focus: Imitation Learning, LLM, Reinforcement Learning </p>
+        <p><a href="mailto:21s053030@stu.hit.edu.cn">Email: 21s053030@stu.hit.edu.cn</a></p>
+    </div>
 </div>
-</div>
-
 
 <h2>Graduate Students</h2>
 <hr>
 <div class="members">
- <div class="pic">
-<img src="/images/zzd.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Zida Zhi（赵子达）</h3>
-<p>September 2022 - Present </p>
-<p>Research Focus: </p>
-<p>Reinforcement Learning, Dynamic Modeling</p>
-<p><a href="mailto:a1320943099@163.com">Email:a1320943099@163.com</a></p>
-</div>
-</div>
-
-<br>
-<div class="members">
- <div class="pic">
-<img src="/images/dh.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Hao Ding（丁昊）</h3>
-<p>September 2022 - Present </p>
-<p>Research Focus: </p>
-<p>Graph Learning, Spatiotemporal Graph Convolution</p>
-<p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
-</div>
+    <div class="pic">
+        <img src="/images/zzd.jpg" alt="" />
+    </div>
+    <div class="text">
+        <h3>Zida Zhi（赵子达）</h3>
+        <p>September 2022 - Present </p>
+        <p>Research Focus: Reinforcement Learning, Dynamic Modeling</p>
+        <p><a href="mailto:a1320943099@163.com">Email: a1320943099@163.com</a></p>
+    </div>
 </div>
 
 <br>
 <div class="members">
- <div class="pic">
-<img src="/images/lcy.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Chiyao Li（李池瑶）</h3>
-<p>September 2023 - Present </p>
-<p>Research Focus: </p>
-<p>Reinforcement Learning, Inverse Kinematics</p>
-<p><a href="mailto:lcy_51k@163.com">Email:lcy_51k@163.com</a></p>
-</div>
+    <div class="pic">
+        <img src="/images/dh.jpg" alt="" />
+    </div>
+    <div class="text">
+        <h3>Hao Ding（丁昊）</h3>
+        <p>September 2022 - Present </p>
+        <p>Research Focus: Graph Learning, Spatiotemporal Graph Convolution</p>
+        <p><a href="mailto:dinghao_ouc@126.com">Email: dinghao_ouc@126.com</a></p>
+    </div>
 </div>
 
 <br>
 <div class="members">
- <div class="pic">
-<img src="/images/zch.png" alt="" />
- </div>
-<div class="text">
-<h3>Chenhao Zhang（张琛浩）</h3>
-<p>September 2023 - Present </p>
-<p>Research Focus: </p>
-<p>Biomimetic Locust Legged robot.</p>
-<p><a href="mailto:gloryzch@163.com">Email:gloryzch@163.com</a></p>
+    <div class="pic">
+        <img src="/images/lcy.jpg" alt="" />
+    </div>
+    <div class="text">
+        <h3>Chiyao Li（李池瑶）</h3>
+        <p>September 2023 - Present </p>
+        <p>Research Focus: Reinforcement Learning, Inverse Kinematics</p>
+        <p><a href="mailto:lcy_51k@163.com">Email: lcy_51k@163.com</a></p>
+    </div>
 </div>
+
+<br>
+<div class="members">
+    <div class="pic">
+        <img src="/images/zch.png" alt="" />
+    </div>
+    <div class="text">
+        <h3>Chenhao Zhang（张琛浩）</h3>
+        <p>September 2023 - Present </p>
+        <p>Research Focus: Biomimetic Locust Legged robot.</p>
+        <p><a href="mailto:gloryzch@163.com">Email: gloryzch@163.com</a></p>
+    </div>
 </div>
