@@ -34,42 +34,30 @@ height:150px;
 <hr>
 <div class="members">
 <div class="pic">
-<img src="/images/liyimingpic.jpg" alt="" />
+<img src="/images/ssl.png" alt="" />
 </div>
 <div class="text">
-<h3>Yiming Li</h3>
+<h3>Shilong SUN</h3>
 <p>Group Leader</p>
-<p><a href="mailto:liym2019@sustech.edu.cn">Email:liym2019@sustech.edu.cn</a></p>
+<p><a href="mailto:sunshilong@hit.edu.cn">Email:sunshilong@hit.edu.cn</a></p>
 </div>
 </div>
 
-<h2>Research Associate</h2>
+<h2>PhD Candidate</h2>
 <hr>
 <div class="members">
  <div class="pic">
-<img src="/images/fangke.png" alt="" />
+<img src="/images/hhd.jpg" alt="" />
  </div>
 <div class="text">
 <h3>Ke Fang</h3>
-<p>Research interests in three-dimensional genome structure </p>
-<p><a href="mailto:fangk@mail.sustech.edu.cn">Email:fangk@mail.sustech.edu.cn</a></p>
-</div>
-</div>
-
-<br>
-<div class="members">
- <div class="pic">
-<img src="/images/zhoululu.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Lulu Zhou</h3>
-<p>Super-resolution imaging</p>
-<p><a href="mailto:zhoull@sustech.edu.cn">Email:zhoull@sustech.edu.cn</a></p>
+<p>Research interests in imitation learning and LLM </p>
+<p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
 </div>
 </div>
 
 
-<h2>Research Assistant</h2>
+<h2>Graduate Students</h2>
 <hr>
 <div class="members">
  <div class="pic">
