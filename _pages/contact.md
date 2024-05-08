@@ -4,6 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+<style>
+body {
+    font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
+}
+</style>
 
 <h2> Address information </h2>
 
@@ -12,5 +17,3 @@ Mechanical Engineering, <br>
 Harbin Institute of Technology (Shenzhen), <br>
 Shenzhen University City Harbin Institute of Technology Campus, Taoyuan Street, Nanshan District, Shenzhen, Guangdong, <br>
 China<br>
-
-
