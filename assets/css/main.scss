@@ -39,3 +39,8 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// 设置全局字体样式为 Trebuchet MS
+body {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
