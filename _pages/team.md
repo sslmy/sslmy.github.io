@@ -97,7 +97,7 @@ height:210px;
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/linzhaojun.png" alt="" />
+<img src="/images/zch.png" alt="" />
  </div>
 <div class="text">
 <h3>Chenhao Zhang</h3>
