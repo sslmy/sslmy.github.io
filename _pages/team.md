@@ -68,7 +68,7 @@ height:150px;
 <h3>Zida Zhi</h3>
 <p>2022 fall</p>
 <p>Research interests in fault diagnosis and reinforcement learning</p>
-<p><a href="mailto:yangj3@mail.sustech.edu.cn">Email:yangj3@mail.sustech.edu.cn</a></p>
+<p><a href="mailto:a1320943099@163.com">Email:a1320943099@163.com</a></p>
 </div>
 </div>
 
