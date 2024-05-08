@@ -83,12 +83,12 @@ author:
   name             : "<span style='font-family: Trebuchet MS;'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shilong SUN</span>"
   avatar           : "ssl.png"
   bio              : "<span style='font-family: Trebuchet MS;'>Associate Professor of Harbin Institute of Technology (Shenzhen)</span>"
-  location         : "<span style='font-family: Trebuchet MS;'>Shenzhen China</span>"
+  location         : "Shenzhen China"
   employer         :
   pubmed           : 
-  googlescholar    : "<span style='font-family: Trebuchet MS;'>https://scholar.google.com/citations?hl=en&user=0N3EANQAAAAJ</span>"
-  email            : "<span style='font-family: Trebuchet MS;'>shilosun-c@my.cityu.edu.hk</span>"
-  researchgate     : "<span style='font-family: Trebuchet MS;'>https://www.researchgate.net/profile/Shilong-Sun</span>"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=0N3EANQAAAAJ"
+  email            : " shilosun-c@my.cityu.edu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Shilong-Sun"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "<span style='font-family: Trebuchet MS;'>sslmy</span>"
+  github           : "sslmy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "<span style='font-family: Trebuchet MS;'>https://orcid.org/0000-0003-0460-4592</span>"
+  orcid            : "https://orcid.org/0000-0003-0460-4592"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
