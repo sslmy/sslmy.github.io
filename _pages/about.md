@@ -60,11 +60,11 @@ redirect_from:
 <body align="justify">
 <div class="area_pics">
  <img src="/images/isa.png" />
- <img src="/images/EAI.png" />
+ <img src="/images/AEI.png" />
 </div>
 <div class="area_pics">
  <img src="/images/TIM3.png" />
- <img src="/images/TCE.jpg" />
+ <img src="/images/TCE.png" />
 </div>
   <br>
 <div>
