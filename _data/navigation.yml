@@ -4,7 +4,7 @@ main:
   - title: "<span style='font-family: Trebuchet MS;'>Research</span>"
     url: /Research/
 
-  - title: "Team"
+  - title: "<span style='font-family: Trebuchet MS;'>Team</span>"
     url: /team/
 
   - title: "<span style='font-family: Trebuchet MS;'>Publications</span>"
