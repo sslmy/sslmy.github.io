@@ -43,7 +43,7 @@ height:210px;
 </div>
 </div>
 
-<h2>PhD Candidate</h2>
+<h2>PhD student</h2>
 <hr>
 <div class="members">
  <div class="pic">
@@ -51,7 +51,9 @@ height:210px;
  </div>
 <div class="text">
 <h3>Haodong Huang（黄昊东）</h3>
-<p>Research interests in imitation learning and LLM </p>
+<p>March 2024 - Present </p>
+<p>Research Focus: </p>
+<p>Imitation Learning, LLM, Reinforcement Learning </p>
 <p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
 </div>
 </div>
@@ -65,7 +67,9 @@ height:210px;
  </div>
 <div class="text">
 <h3>Zida Zhi（赵子达）</h3>
-<p>Research interests in fault diagnosis and reinforcement learning</p>
+<p>September 2022 - Present </p>
+<p>Research Focus: </p>
+<p>Reinforcement Learning, Dynamic Modeling</p>
 <p><a href="mailto:a1320943099@163.com">Email:a1320943099@163.com</a></p>
 </div>
 </div>
@@ -77,7 +81,9 @@ height:210px;
  </div>
 <div class="text">
 <h3>Hao Ding（丁昊）</h3>
-<p>Research interests in fault diagnosis and RUL</p>
+<p>September 2022 - Present </p>
+<p>Research Focus: </p>
+<p>Graph Learning, Spatiotemporal Graph Convolution</p>
 <p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
 </div>
@@ -89,7 +95,9 @@ height:210px;
  </div>
 <div class="text">
 <h3>Chiyao Li（李池瑶）</h3>
-<p>My current research interests mainly include  reinforcement learning and Inverse kinematics.</p>
+<p>September 2023 - Present </p>
+<p>Research Focus: </p>
+<p>Reinforcement Learning, Inverse Kinematics</p>
 <p><a href="mailto:lcy_51k@163.com">Email:lcy_51k@163.com</a></p>
 </div>
 </div>
@@ -101,7 +109,9 @@ height:210px;
  </div>
 <div class="text">
 <h3>Chenhao Zhang（张琛浩）</h3>
-<p>Research on biomimetic locust legged robot.</p>
+<p>September 2023 - Present </p>
+<p>Research Focus: </p>
+<p>Biomimetic Locust Legged robot.</p>
 <p><a href="mailto:gloryzch@163.com">Email:gloryzch@163.com</a></p>
 </div>
 </div>
