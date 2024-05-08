@@ -71,9 +71,9 @@ redirect_from:
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
-<li> “SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer” is accepted by AEI! Congratulations Hao Ding!--2024.04</li>
-<li> “A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model” is accepted by IEEE TIM! Congratulations Hao Ding!--2024.04</li>
-<li> “Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis” is accepted by ISA Transactions! Congratulations Tengyi Peng!--2024.1</li>
+<li> “SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer” is accepted by AEI! Congratulations to Hao Ding!--2024.04</li>
+<li> “A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model” is accepted by IEEE TIM! Congratulations to Hao Ding!--2024.04</li>
+<li> “Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis” is accepted by ISA Transactions! Congratulations to Tengyi Peng!--2024.1</li>
 
 
   </div>
