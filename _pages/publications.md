@@ -14,7 +14,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 
 [SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002271)
 
-**Shilong Sun**, Hao Ding, Zida Zhao, Wenfuxu, Dong Wang
+**Shilong Sun**, Hao Ding, Zida Zhao, Wenfu Xu, Dong Wang
 
 Advanced Engineering Informatics,2024
 
@@ -28,7 +28,7 @@ PDF/BibTeX
 
 [A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model](https://ieeexplore.ieee.org/abstract/document/10504387)
 
-**Shilong Sun**, Hao Ding, Haodong Huang, Zida Zhao, Dong Wang, Wenfuxu
+**Shilong Sun**, Hao Ding, Haodong Huang, Zida Zhao, Dong Wang, Wenfu Xu
 
 
 IEEE Transactions on Instrumentation and Measurement,2024
