@@ -16,7 +16,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 
 **Shilong Sun**, Hao Ding, Zida Zhao, Wenfu Xu, Dong Wang
 
-Advanced Engineering Informatics,2024
+*Advanced Engineering Informatics*,2024
 
 PDF/BibTeX
 </div>
@@ -31,7 +31,7 @@ PDF/BibTeX
 **Shilong Sun**, Hao Ding, Haodong Huang, Zida Zhao, Dong Wang, Wenfu Xu
 
 
-IEEE Transactions on Instrumentation and Measurement,2024
+*IEEE Transactions on Instrumentation and Measurement*,2024
 
 PDF/BibTeX
 </div>
@@ -45,7 +45,7 @@ PDF/BibTeX
 
 **Shilong Sun**, Tengyi Peng, Yu Zhou, Xiao Zhang, Dong Wang
 
-ISA Transactions,2024
+*ISA Transactions*,2024
 
 PDF/BibTeX
 </div>
