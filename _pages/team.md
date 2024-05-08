@@ -10,7 +10,6 @@ author_profile: true
     background-color:white;
     width:1000px;
     height:180px;
-    border:solid 2px pink;
     overflow:hidden;
     font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
 }
