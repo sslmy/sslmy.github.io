@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "<span style='font-family: Trebuchet MS;'>Publications</span>"
 permalink: /publications/
 author_profile: true
 ---

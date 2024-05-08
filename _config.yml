@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "SL 	Laboratory"
+title                    : "<span style='font-family: Trebuchet MS;'>SL 	Laboratory</span>"
 title_separator          : "-"
 name                     : &name "Shilong SUN"
 description              : &description "Humanoid robot"

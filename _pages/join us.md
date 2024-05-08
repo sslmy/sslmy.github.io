@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join Us"
+title: "<span style='font-family: Trebuchet MS;'>Join Us</span>"
 permalink: /Join Us/
 author_profile: true
 ---

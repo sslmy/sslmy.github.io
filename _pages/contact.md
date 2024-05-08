@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "<span style='font-family: Trebuchet MS;'>Contact</span>"
 permalink: /contact/
 author_profile: true
 ---
