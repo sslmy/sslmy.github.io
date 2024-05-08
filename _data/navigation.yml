@@ -1,52 +1,22 @@
 # main links links
 main:
 
-  - title: "Research"
+  - title: "<span style='font-family: Trebuchet MS;'>Research</span>"
     url: /Research/
 
   - title: "Team"
     url: /team/
 
-  - title: "Publications"
+  - title: "<span style='font-family: Trebuchet MS;'>Publications</span>"
     url: /publications/
   
-  - title: "Join Us"
+  - title: "<span style='font-family: Trebuchet MS;'>Join Us</span>"
     url: /Join Us/    
 
-  - title: "Contact"
+  - title: "<span style='font-family: Trebuchet MS;'>Contact</span>"
     url: /contact/
   
-  - title: "CV"
+  - title: "<span style='font-family: Trebuchet MS;'>CV</span>"
     url: /files/CV_SUN_ENG_2024.pdf
 
----
-layout: default
-title: Your Page Title
----
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ page.title }}</title>
-    <style>
-        body {
-            font-family: 'Trebuchet MS', sans-serif; /* 使用 Trebuchet MS 字体 */
-        }
-    </style>
-</head>
-<body>
-
-<div id="main-links">
-  <ul>
-    {% for item in page.main %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
-
-<div id="content">
-  {{ content }}
-</div>
-
-</body>
-</html>
