@@ -59,36 +59,31 @@ redirect_from:
 </style>
 <body align="justify">
 <div class="area_pics">
- <img src="/images/research1.png" />
- <img src="/images/research2.png" />
+ <img src="/images/isa.png" />
+ <img src="/images/EAI.png" />
 </div>
 <div class="area_pics">
- <img src="/images/research3.png" />
- <img src="/images/research4.jpg" />
+ <img src="/images/TIM3.png" />
+ <img src="/images/TCE.jpg" />
 </div>
   <br>
 <div>
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
-<li> “Universal inverse modelling of point spread functions for SMLM localization and microscope characterization” is accepted by Nature Methods! Congratulations Jianwei Chen!--2024.03</li>
-<li> “Aberration correction for deformable mirror based remote focusing enables high-accuracy whole-cell super-resolution imaging” is accepted by Photonics Research! Congratulations Wei Shi!--2024.02</li>
-<li> “Optimal Sampling Rate for 3D Single Molecule Localization” is out at Optics Express! Congratulations Huanzhi Chang&Shuang Fu!--2023.11</li>
-<li>Congratulations to Wei Shi and Shuang Fu for being awarded the National Scholarship for Ph.D. Students!--2023.10</li>
-<li>FD-DeepLoc paper is out at Nature Methods! Congratulations Shuang Fu&Wei Shi!--2023.02</li>
-<li>Welcome our new research assistant Xinyue Li! -- 2023.02</li>
-<li>Welcome our new research associate Ke Fang! -- 2022.12</li>
-<li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
-<li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
-<li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
-<li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
+<li> “SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer” is accepted by AEI! Congratulations Hao Ding!--2024.04</li>
+<li> “A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model” is accepted by IEEE TIM! Congratulations Hao Ding!--2024.04</li>
+<li> “Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis” is accepted by ISA Transactions! Congratulations Tengyi Peng!--2024.1</li>
+
 
   </div>
    </div>   
 <br>
+ <!-- 
 <h1>What we do </h1>
    <hr/> 
   <p><b>Seeing is believing! </b>We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
+  -->
 
 <h1>Who we are </h1>
      <hr/> 
@@ -96,6 +91,7 @@ redirect_from:
       <div class="mySlides"> 
         <img src="/images/team1.png" style="width:100%">
       </div>
+      <!--  
       <div class="mySlides">
         <img src="/images/team2.png" style="width:100%">
       </div>
@@ -174,7 +170,8 @@ redirect_from:
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-  <p>Our group is a mix of physicist, engineer, computer scientist, biologist and chemist.</p>
+    -->
+  <p>Our group is a mix of Mechanical, Control, and Computer.</p>
     <script>
       var slideIndex = 5;
       showSlides(slideIndex);
