@@ -18,7 +18,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 
 *Advanced Engineering Informatics*,2024
 
-PDF/BibTeX
+[PDF](/files/paper202403.pdf)/[BibTeX](/files/paper202403.bib)
 </div>
 </div>
 
@@ -33,7 +33,7 @@ PDF/BibTeX
 
 *IEEE Transactions on Instrumentation and Measurement*,2024
 
-PDF/BibTeX
+[PDF](/files/paper202402.pdf)/[BibTeX](/files/paper202402.bib)
 </div>
 </div>
 
@@ -47,7 +47,7 @@ PDF/BibTeX
 
 *ISA Transactions*,2024
 
-PDF/BibTeX
+[PDF](/files/paper202401.pdf)/[BibTeX](/files/paper202401.bib)
 </div>
 </div>
 
