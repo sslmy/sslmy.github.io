@@ -51,6 +51,7 @@ height:150px;
  </div>
 <div class="text">
 <h3>Haodong Huang</h3>
+<p>2024 fall</p>
 <p>Research interests in imitation learning and LLM </p>
 <p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
 </div>
@@ -65,6 +66,7 @@ height:150px;
  </div>
 <div class="text">
 <h3>Zida Zhi</h3>
+<p>2022 fall</p>
 <p>Research interests in fault diagnosis and reinforcement learning</p>
 <p><a href="mailto:yangj3@mail.sustech.edu.cn">Email:yangj3@mail.sustech.edu.cn</a></p>
 </div>
@@ -77,6 +79,7 @@ height:150px;
  </div>
 <div class="text">
 <h3>Hao Ding</h3>
+<p>2022 fall</p>
 <p>Research interests in fault diagnosis and RUL</p>
 <p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
