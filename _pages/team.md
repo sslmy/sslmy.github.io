@@ -45,7 +45,7 @@ author_profile: true
 <img src="/images/hhd.jpg" alt="" />
  </div>
 <div class="text">
-<h3>Ke Fang</h3>
+<h3>Haodong Huang</h3>
 <p>Research interests in imitation learning and LLM </p>
 <p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
 </div>
@@ -59,7 +59,7 @@ author_profile: true
 <img src="/images/yangjie.jpg" alt="" />
  </div>
 <div class="text">
-<h3>Jie Yang</h3>
+<h3>Zida Zhi</h3>
 <p>Research interests in optomechanical design and miniaturization</p>
 <p><a href="mailto:yangj3@mail.sustech.edu.cn">Email:yangj3@mail.sustech.edu.cn</a></p>
 </div>
@@ -68,12 +68,12 @@ author_profile: true
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/fushuang.png" alt="" />
+<img src="/images/dh.jpg" alt="" />
  </div>
 <div class="text">
-<h3>Shuang Fu</h3>
+<h3>Hao Ding</h3>
 <p>Research interests include PSF engineering, deep-learning based localization and my cats.</p>
-<p><a href="mailto:fus2020@mail.sustech.edu.cn">Email:fus2020@mail.sustech.edu.cn</a></p>
+<p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
 </div>
 
