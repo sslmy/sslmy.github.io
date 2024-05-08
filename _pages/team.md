@@ -17,6 +17,8 @@ author_profile: true
 }
 .pic img{
     display:block;
+    width: auto;
+    height: auto;
 }
 .text{
     width:800px;
