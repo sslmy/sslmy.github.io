@@ -9,7 +9,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 
 
 <!--  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AEI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AEI.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SCG-GFFE: A Self-Constructed graph fault feature extractor based on graph Auto-encoder algorithm for unlabeled single-variable vibration signals of harmonic reducer](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002271)
@@ -23,7 +23,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 </div>
 
 <!--  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/TIM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/TIM3.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Cross-Domain Data Augmentation and Bearing Fault Diagnosis Method Based on an Enhanced Generative Model](https://ieeexplore.ieee.org/abstract/document/10504387)
@@ -38,7 +38,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 </div>
 
 <!--  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/isa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/isa.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0019057823005128)
