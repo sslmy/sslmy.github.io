@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 <div align="center">
-<img src='/images/lab.jpg' style='width:100%'>
+<img src='/images/lab.png' style='width:100%'>
 </div>
 <div>
 
@@ -20,7 +20,7 @@ author_profile: true
  <p>Fault diagnosis</p>
  <p>Life prediction</p>
 
-<p>3. Vibration energy collection</p>
+<p>3. Vibration energy harvest</p>
  <p>Wearable devices</p> 
  <p>Sensor power supply</p>
 
