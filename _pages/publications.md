@@ -38,7 +38,7 @@ You can find the complete publication list on [Google Scholar](https://scholar.g
 </div>
 
 <!--  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/isa.png' alt="sym" width="%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/isa.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contrastive learning and dynamics embedding neural network for label-free interpretable machine fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0019057823005128)
