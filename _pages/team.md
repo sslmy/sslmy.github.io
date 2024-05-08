@@ -44,7 +44,7 @@ author_profile: true
 <hr>
 <div class="members">
     <div class="pic">
-        <img src="/images/ssl.png" alt="" />
+        <img src="/images/AEI.png" alt="" />
     </div>
     <div class="text">
         <h3>Shilong SUN（孙士龙）</h3>
