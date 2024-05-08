@@ -9,18 +9,14 @@ author_profile: true
 .members{
     background-color:white;
     width:100%;
-    boarder:solid 2px pink;
+    border:solid 2px pink;
     overflow:hidden;
 }
 .pic{
-    width:150px;
-    height:150px;
     float:left;
 }
 .pic img{
-display:block;
-width:150px;
-height:150px;
+    display:block;
 }
 .text{
     width:800px;
@@ -106,5 +102,3 @@ height:150px;
 <p><a href="mailto:linzhaojun0707@163.com">Email:linzhaojun0707@163.com</a></p>
 </div>
 </div>
-
-<br>

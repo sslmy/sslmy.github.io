@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 <div align="center">
-<img src='/images/lab.png' style='width:100%'>
+<img src='/images/lab.png' style='width:50%'>
 </div>
 <div>
 
