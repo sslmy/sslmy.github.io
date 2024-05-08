@@ -115,7 +115,7 @@ author_profile: true
     <div class="text">
         <h3>Chenhao Zhang（张琛浩）</h3>
         <p>September 2023 - Present </p>
-        <p>Research Focus: Biomimetic Locust Legged robot.</p>
+        <p>Research Focus: Biomimetic Locust Legged robot</p>
         <p><a href="mailto:gloryzch@163.com">Email: gloryzch@163.com</a></p>
     </div>
 </div>
