@@ -110,7 +110,7 @@ author_profile: true
 <br>
 <div class="members">
     <div class="pic">
-        <img src="/images/zch.png" alt="" />
+        <img src="/images/zch.jpg" alt="" />
     </div>
     <div class="text">
         <h3>Chenhao Zhang（张琛浩）</h3>
