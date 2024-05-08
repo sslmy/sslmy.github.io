@@ -8,8 +8,7 @@ author_profile: true
 <style>
 .members{
     background-color:white;
-    width:1000px;
-    height:180px;
+    width:100%;
     boarder:solid 2px pink;
     overflow:hidden;
 }
