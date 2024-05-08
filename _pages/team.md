@@ -51,7 +51,6 @@ height:210px;
  </div>
 <div class="text">
 <h3>Haodong Huang</h3>
-<p>2024 fall</p>
 <p>Research interests in imitation learning and LLM </p>
 <p><a href="mailto:21s053030@stu.hit.edu.cn">Email:21s053030@stu.hit.edu.cn</a></p>
 </div>
@@ -66,7 +65,6 @@ height:210px;
  </div>
 <div class="text">
 <h3>Zida Zhi</h3>
-<p>2022 fall</p>
 <p>Research interests in fault diagnosis and reinforcement learning</p>
 <p><a href="mailto:a1320943099@163.com">Email:a1320943099@163.com</a></p>
 </div>
@@ -79,7 +77,6 @@ height:210px;
  </div>
 <div class="text">
 <h3>Hao Ding</h3>
-<p>2022 fall</p>
 <p>Research interests in fault diagnosis and RUL</p>
 <p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
@@ -88,12 +85,12 @@ height:210px;
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/feiyue.png" alt="" />
+<img src="/images/lcy.jpg" alt="" />
  </div>
 <div class="text">
-<h3>Yue Fei</h3>
-<p>My current research interests mainly include machine learning and image processing algorithms.</p>
-<p><a href="mailto:fyue0112@163.com">Email:fyue0112@163.com</a></p>
+<h3>Chiyao Li</h3>
+<p>My current research interests mainly include  reinforcement learning and Inverse kinematics.</p>
+<p><a href="mailto:lcy_51k@163.com">Email:lcy_51k@163.com</a></p>
 </div>
 </div>
 
@@ -103,8 +100,8 @@ height:210px;
 <img src="/images/linzhaojun.png" alt="" />
  </div>
 <div class="text">
-<h3>Zhaojun Lin</h3>
-<p>Research on Super-resolution microscopic imaging.</p>
-<p><a href="mailto:linzhaojun0707@163.com">Email:linzhaojun0707@163.com</a></p>
+<h3>Chenhao Zhang</h3>
+<p>Research on biomimetic locust legged robot.</p>
+<p><a href="mailto:gloryzch@163.com">Email:gloryzch@163.com</a></p>
 </div>
 </div>
