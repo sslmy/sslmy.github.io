@@ -8,15 +8,20 @@ author_profile: true
 <style>
 .members{
     background-color:white;
-    width:100%;
-    border:solid 2px pink;
+    width:1000px;
+    height:180px;
+    boarder:solid 2px pink;
     overflow:hidden;
 }
 .pic{
+    width:150px;
+    height:150px;
     float:left;
 }
 .pic img{
-    display:block;
+display:block;
+width:150px;
+height:150px;
 }
 .text{
     width:800px;
@@ -56,11 +61,11 @@ author_profile: true
 <hr>
 <div class="members">
  <div class="pic">
-<img src="/images/yangjie.jpg" alt="" />
+<img src="/images/zzd.jpg" alt="" />
  </div>
 <div class="text">
 <h3>Zida Zhi</h3>
-<p>Research interests in optomechanical design and miniaturization</p>
+<p>Research interests in fault diagnosis and reinforcement learning</p>
 <p><a href="mailto:yangj3@mail.sustech.edu.cn">Email:yangj3@mail.sustech.edu.cn</a></p>
 </div>
 </div>
@@ -72,7 +77,7 @@ author_profile: true
  </div>
 <div class="text">
 <h3>Hao Ding</h3>
-<p>Research interests include PSF engineering, deep-learning based localization and my cats.</p>
+<p>Research interests in fault diagnosis and RUL</p>
 <p><a href="mailto:dinghao_ouc@126.com">Email:dinghao_ouc@126.com</a></p>
 </div>
 </div>
