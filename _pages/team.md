@@ -119,3 +119,39 @@ author_profile: true
         <p><a href="mailto:gloryzch@163.com">Email: gloryzch@163.com</a></p>
     </div>
 </div>
+
+
+<h2><span style='font-family: Trebuchet MS;'>Alumni</span></h2>
+<hr>
+<div class="members">
+    <div class="pic">
+        <img src="/images/pty.jpg" alt="" />
+    </div>
+    <div class="text">
+        <h3>Tengyi Peng（彭腾毅）</h3>
+        <p>September 2020 - March 2023 </p>
+    </div>
+</div>
+
+
+<br>
+<div class="members">
+    <div class="pic">
+        <img src="/images/zyl.png" alt="" />
+    </div>
+    <div class="text">
+        <h3>Yulong Zheng（郑钰泷）</h3>
+        <p>September 2020 - March 2023 </p>
+    </div>
+</div>
+
+<br>
+<div class="members">
+    <div class="pic">
+        <img src="/images/dj.png" alt="" />
+    </div>
+    <div class="text">
+        <h3>Jian Ding（丁简）</h3>
+        <p>September 2021 - March 2024 </p>
+    </div>
+</div>
