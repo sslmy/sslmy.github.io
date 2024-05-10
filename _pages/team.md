@@ -148,7 +148,7 @@ author_profile: true
 <br>
 <div class="members">
     <div class="pic">
-        <img src="/images/dj.png" alt="" />
+        <img src="/images/dj.jpg" alt="" />
     </div>
     <div class="text">
         <h3>Jian Ding（丁简）</h3>
