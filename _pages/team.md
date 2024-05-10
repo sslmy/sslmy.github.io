@@ -84,12 +84,12 @@ author_profile: true
 <br>
 <div class="members">
     <div class="pic">
-        <img src="/images/dh.jpg" alt="" />
+        <img src="/images/dh.png" alt="" />
     </div>
     <div class="text">
         <h3>Hao Ding（丁昊）</h3>
         <p>September 2022 - Present </p>
-        <p>Research Focus: Graph Learning, Spatiotemporal Graph Convolution</p>
+        <p>Research Focus: Graph Learning, Time Series Prediction</p>
         <p><a href="mailto:dinghao_ouc@126.com">Email: dinghao_ouc@126.com</a></p>
     </div>
 </div>
