@@ -60,7 +60,7 @@ author_profile: true
         <img src="/images/hhd.jpg" alt="" />
     </div>
     <div class="text">
-        <h3>Haodong Huang（黄昊东）</h3>
+        <h3>[Haodong Huang（黄昊东）](https://hithaodonghuang.github.io/)</h3>
         <p>March 2024 - Present </p>
         <p>Research Focus: Imitation Learning, LLM, Reinforcement Learning </p>
         <p><a href="mailto:21s053030@stu.hit.edu.cn">Email: 21s053030@stu.hit.edu.cn</a></p>
