@@ -97,7 +97,7 @@ author_profile: true
 <br>
 <div class="members">
     <div class="pic">
-        <img src="/images/lcy.jpg" alt="" />
+        <img src="/images/lcy1.jpg" alt="" />
     </div>
     <div class="text">
         <h3>Chiyao Li（李池瑶）</h3>
