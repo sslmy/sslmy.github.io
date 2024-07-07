@@ -74,7 +74,7 @@ author_profile: true
         <img src="/images/zzd.jpg" alt="" />
     </div>
     <div class="text">
-        <h3>Zida Zhi（赵子达）</h3>
+        <h3>Zida Zhao（赵子达）</h3>
         <p>September 2022 - Present </p>
         <p>Research Focus: Reinforcement Learning, Dynamic Modeling</p>
         <p><a href="mailto:a1320943099@163.com">Email: a1320943099@163.com</a></p>
